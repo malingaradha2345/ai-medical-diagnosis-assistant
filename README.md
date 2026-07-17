@@ -61,7 +61,7 @@ streamlit run app.py
 
 ## Live Demo
 
-Add your Streamlit application URL here.
+https://ai-medical-diagnosis-assistant-nwj7cuzqsfpoejf3xgprkb.streamlit.app/
 
 ## GitHub Repository
 
