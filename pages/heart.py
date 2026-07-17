@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 import numpy as np
-from utils.shap_helper import show_shap
+
 
 st.set_page_config(page_title="Heart Disease Prediction", page_icon="❤️", layout="wide")
 
